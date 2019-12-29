@@ -2,19 +2,19 @@
 
 初始状态:
 
-![pic1](C:\Users\zalex\source\repos\BFS With Maze Demo\pic\pic1.png)
+![pic1](pic/pic1.png)
 
 输入行数和列数并点击Confirm即可生成空白地图
 
-![pic2](C:\Users\zalex\source\repos\BFS With Maze Demo\pic\pic2.png)
+![pic2](pic/pic2.png)
 
 点击地图可翻转方块
 
-![](C:\Users\zalex\source\repos\BFS With Maze Demo\pic\pic3.png)
+![](pic/pic3.png)
 
 点击Run开始运行:
 
-![](C:\Users\zalex\source\repos\BFS With Maze Demo\pic\pic4.png)
+![](pic/pic4.png)
 
 运行时也可翻转方块，点击Refresh按照新的行数和列数重新刷新空白地图
 
